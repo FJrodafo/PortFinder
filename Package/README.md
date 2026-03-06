@@ -2,12 +2,8 @@
 
 Fast and minimalist port finder!
 
-![NPM Collaborators](https://img.shields.io/npm/collaborators/@fjrodafo/port-finder)
-![NPM Downloads](https://img.shields.io/npm/d18m/@fjrodafo/port-finder)
-![NPM License](https://img.shields.io/npm/l/@fjrodafo/port-finder)
-![NPM Version](https://img.shields.io/npm/v/@fjrodafo/port-finder)
-![NPM Last Update](https://img.shields.io/npm/last-update/@fjrodafo/port-finder)
-![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/@fjrodafo/port-finder)
+[![npm Downloads](https://img.shields.io/npm/d18m/@fjrodafo/port-finder?style=flat&logo=npm&logoColor=cd0000&label=Downloads&labelColor=ffffff&color=ffffff)](https://www.npmjs.com/package/@fjrodafo/port-finder)
+[![GitHub Stars](https://img.shields.io/github/stars/FJrodafo/PortFinder?style=social&logo=github&logoColor=000000&label=Stars&labelColor=ffffff&color=ffffff)](https://github.com/FJrodafo/PortFinder/stargazers)
 
 ## Index
 
