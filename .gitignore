@@ -3,3 +3,4 @@
 
 # Testing
 /testing/node_modules/
+/testing/package-lock.json
