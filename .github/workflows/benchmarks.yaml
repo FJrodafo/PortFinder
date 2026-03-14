@@ -13,11 +13,11 @@ jobs:
         with:
           node-version: "24"
       - name: Install dependencies
-        working-directory: Testing
+        working-directory: testing
         run: npm install
       - name: Loading time
-        working-directory: Testing
+        working-directory: testing
         run: node ./benchmarks/loading.js
       - name: Package size
-        working-directory: Testing
+        working-directory: testing
         run: node ./benchmarks/size.js

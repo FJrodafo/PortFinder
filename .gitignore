@@ -1,2 +1,5 @@
-Releases/
-Testing/node_modules/
+# Releases
+/releases/v*
+
+# Testing
+/testing/node_modules/
