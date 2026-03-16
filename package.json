@@ -4,6 +4,7 @@
   "description": "Fast and minimalist port finder!",
   "main": "port-finder.js",
   "files": [
+    "CONTRIBUTING",
     "LICENSE",
     "README.md",
     "package.json",
