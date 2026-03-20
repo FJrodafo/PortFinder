@@ -37,4 +37,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - All files (Existing project).
 
 [unreleased]: https://github.com/FJrodafo/PortFinder/compare/2.0.9...HEAD
-[2.0.9]: https://github.com/FJrodafo/PortFinder/commits/2.0.9
+[2.0.9]: https://github.com/FJrodafo/PortFinder/releases/tag/2.0.9
